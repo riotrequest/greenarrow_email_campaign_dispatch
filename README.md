@@ -12,7 +12,7 @@ This PHP script is designed to send email campaigns using the GreenArrow Email A
 
 2. Customize the email campaign parameters in the `$dispatch_parameters` array to suit your requirements. You can specify the mailing list ID, segmentation criteria, dispatch attributes, and email content.
 
-3. The script fetches HTML content from two URLs and extracts subject, name, and text content.
+3. The script fetches HTML content from a URL and extracts subject, name, and text content.
 
 4. It schedules email dispatches using the GreenArrow Email API with the provided parameters.
 
