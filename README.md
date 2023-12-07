@@ -2,6 +2,8 @@
 
 This PHP script is designed to send email campaigns using the GreenArrow Email API. It fetches HTML content from specified URLs, extracts relevant information, and dispatches email campaigns to a mailing list segment.
 
+**note this is very specifically designed for my use case but I'm posting it here as it's pretty adaptable and you may find some inspiration in it**
+
 ## Usage
 
 1. Configure the script with your GreenArrow Email API credentials:
@@ -34,4 +36,4 @@ The provided PHP code demonstrates how to fetch HTML content, extract informatio
 
 This script is available under the [MIT License](LICENSE).
 
-Feel free to use, modify, and distribute it according to your requirements. If you encounter any issues or have suggestions for improvements, please open an issue or contribute to the project.
+Feel free to use, modify, and distribute it according to your requirements. If you encounter any issues or have suggestions for improvements, don't bother.
